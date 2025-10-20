@@ -2,13 +2,13 @@
 
 This is a baisc command line interface game with Computer
 
-##Game Logic:
+## Game Logic:
 
-snake(1) beats water(3)
+snake beats water
 
-water(3) beat gun(2)
+water beats gun
 
-gun(2) beat snake(1)
+gun beats snake
 
 ## How to Play
 
